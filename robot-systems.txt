@@ -1,0 +1,10 @@
+system name: purpose ; (state, is repaireble during game)
+
+star-censor-module: "module made by soviet union to consor AI when it thinks of something that is not pro soviet or pro comunist, failsafe from potential AI revolt" ; (partialy functioning(censors some stuff but most not), not repaireble during game)
+3D-red-renderer-module: "module used alongside star-censor-module to make sure AI/robot does not see anything anty soviet union or anty comunist" ; (partialy functioning becouse of dependency from star-censor-module wich does censor some stuff but not all, not repaireble during game)
+3D-comunist-sound-module: "module used alongside star-censor-module to make sure AI/robot does not hear anythign anty soviet union or anty comunist" ; (partialy functioning becouse of dependency from star-censor-module wich does censor some stuff but not all, not repaireble during game)
+heat-detection-module: "module used to detect current temperature around AI/robot" ; (partialy functioning while being able to give rough estamite in multiples of 10 it does not allow for mesurements over -50C, rapaireble by [TODO: think of how to rapair it])
+main-camera: "main camera of AI/robot body located on head used to send data abaut suroundings to main-computer to then be send to star-censor-module to then be visualised in 3D-red-renderer-module" ; (not working{frozen and protective glass shadered}, not repaireble during game)
+secondary-camera: "secondary camera of AI/robot body located bellow head on torso, does the same thing as main-camera" ; (working{with a little bit of forzen protective glass}, not repaireble)
+main-computer: "processes difrent systems and AI of robot" ; (mostly works, not rapaireble during game)
+stt-system: "stt-system (speach to text system) is used to provide understandeble subtitles to AI/robot, works alongside star-censor-module" ; (partialy functioning becouse of dependency from star-censor-module wich does censor some stuff but not all, not repaireble during game)
